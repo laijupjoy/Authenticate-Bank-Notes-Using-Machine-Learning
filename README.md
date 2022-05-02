@@ -5,6 +5,4 @@ Authenticate bank notes using machine learning, web app created with Streamlit l
 ## A glimpse of the Loan Approval Prediction Webapp:
 
 
-![GIF](readme_resources/bank_note.gif)
-
-![GIF](bank_note.gif)
+![GIF](readme_resources/banknote.gif)
