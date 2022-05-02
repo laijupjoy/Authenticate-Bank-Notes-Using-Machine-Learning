@@ -6,3 +6,5 @@ Authenticate bank notes using machine learning, web app created with Streamlit l
 
 
 ![GIF](readme_resources/bank_note.gif)
+
+![GIF](bank_note.gif)
